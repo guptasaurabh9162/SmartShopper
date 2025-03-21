@@ -259,7 +259,7 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
               {
-                name: "Alex Johnson",
+                name: "Alwin",
                 rating: 5,
                 text: "Exceptional quality and fast delivery. The products exceeded my expectations. Will definitely shop here again!"
               },
@@ -269,7 +269,7 @@ const Index = () => {
                 text: "The user experience on this site is amazing. Easy to navigate, find what I need, and checkout was seamless."
               },
               {
-                name: "Michael Chen",
+                name: "Payal Kumari",
                 rating: 4,
                 text: "Great selection of products at competitive prices. Customer service was responsive when I had questions."
               }
@@ -343,8 +343,8 @@ const Index = () => {
               <h4 className="text-sm font-semibold mb-4 uppercase">Contact</h4>
               <ul className="space-y-2 text-sm text-primary-foreground/80">
                 <li>info@smartshop.com</li>
-                <li>+1 (555) 123-4567</li>
-                <li>123 Shopping St, Retail City</li>
+                <li>7231951970</li>
+                <li>Whitefield,karnataka</li>
               </ul>
             </div>
           </div>
